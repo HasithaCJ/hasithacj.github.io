@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2372751355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8b8c5b66a74f2a91f632016121ea7e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/Graffiti3.png
+- Assets/Images/Graffiti2.png
+Dependencies: []
