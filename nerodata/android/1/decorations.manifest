@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3487548271
+CRC: 3758171634
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 672b6f0b426785301a7885619b6af56b
+    Hash: 13125df2b82ea2f146d2cc2e443e367f
   TypeTreeHash:
     serializedVersion: 2
     Hash: e25f1243bd400bb11435a16ce36e272d
@@ -36,4 +36,5 @@ Assets:
 - Assets/decorations/Graffiti3.png
 - Assets/decorations/Graffiti2.png
 - Assets/decorations/Decorations_Data.asset
+- Assets/decorations/Graffiti1.png
 Dependencies: []
