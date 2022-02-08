@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4120922847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e01a96cab912bfbbd4c958a724675f9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6990f193ed0e30e1afe432369c9444ac
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b374f839a45c39743aaae6f623838f81, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/skin_20/skin_20.asset
+Dependencies: []
