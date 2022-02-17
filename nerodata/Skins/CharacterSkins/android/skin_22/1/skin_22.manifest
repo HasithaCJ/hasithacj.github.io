@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2124949734
+CRC: 3898122422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 46a23c79c7894677503b3e4fd1f9a07a
+    Hash: 9e2edeaf727afd1b5b33cb709abdc462
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6990f193ed0e30e1afe432369c9444ac
@@ -19,5 +19,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SkinData/skin_20/skin_20.asset
+- Assets/SkinData/CharacterSkins/skin_22/skin_22.asset
 Dependencies: []
