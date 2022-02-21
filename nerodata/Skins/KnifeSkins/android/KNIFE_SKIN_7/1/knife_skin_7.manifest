@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2077992165
+CRC: 1555511066
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8ef7fd5736533a2e98f4f128af4da6c
+    Hash: e3007b0f3d9bfaf8de8cc6f8b4035494
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7f08e390efcca16aa835d5127850a3e1
@@ -19,5 +19,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SkinData/AK47Skins/AK47Skin_6/AK47Skin_6.asset
+- Assets/SkinData/KnifeSkins/KNIFE_SKIN_7/KNIFE_SKIN_7.asset
 Dependencies: []

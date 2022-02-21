@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1327136418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 337c67d5fd00d87ca71ec083fbedc480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f08e390efcca16aa835d5127850a3e1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a09a5d00e42b4394db351c21ae8a16bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/PistolSkins/PISTOL_SKIN_6/PISTOL_SKIN_6.asset
+Dependencies: []
