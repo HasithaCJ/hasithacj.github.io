@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2286419109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea07fddc912bb2eeae333a8791b9427c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1887cbeca4ab3e2b2a47045419123c8c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b374f839a45c39743aaae6f623838f81, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/CharacterSkins/HERO_SKIN_11/HERO_SKIN_11.asset
+Dependencies: []
