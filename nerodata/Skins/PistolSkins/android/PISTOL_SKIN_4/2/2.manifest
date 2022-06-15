@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3882791957
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pistol_skin_4
+      Dependencies: {}
+    Info_1:
+      Name: store_pistol_skin_4
+      Dependencies: {}

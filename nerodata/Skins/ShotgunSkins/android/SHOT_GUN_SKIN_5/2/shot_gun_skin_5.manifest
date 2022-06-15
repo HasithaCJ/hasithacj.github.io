@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1766015026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4975f74e3a69b1c487d5009a8cd9e21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44e29d6e3cc9680f1c8d5474ae5fdd50
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a09a5d00e42b4394db351c21ae8a16bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/ShotgunSkins/SHOT_GUN_SKIN_5/SHOT_GUN_SKIN_5.asset
+Dependencies: []
