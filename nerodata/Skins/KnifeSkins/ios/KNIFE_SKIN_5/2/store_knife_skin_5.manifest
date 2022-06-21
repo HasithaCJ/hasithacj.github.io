@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1119564931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f3c417bc422bf156a21b62977869989
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ecdda24df5c3f625a4cda60e0961f5a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd75a536cec00ac498feedc3b99a56b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/KnifeSkins/KNIFE_SKIN_5/STORE_KNIFE_SKIN_5.asset
+Dependencies: []

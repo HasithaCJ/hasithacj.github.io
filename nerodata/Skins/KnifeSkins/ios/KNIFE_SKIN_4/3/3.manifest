@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1035084724
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: knife_skin_4
+      Dependencies: {}
+    Info_1:
+      Name: store_knife_skin_4
+      Dependencies: {}

@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3499040566
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ak_47_skin_4
+      Dependencies: {}
+    Info_1:
+      Name: store_ak_47_skin_4
+      Dependencies: {}

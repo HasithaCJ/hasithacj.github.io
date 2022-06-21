@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1203799917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0eb0e1ebf5ec3f117047a2f65178cf3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ecdda24df5c3f625a4cda60e0961f5a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd75a536cec00ac498feedc3b99a56b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinData/AK47Skins/AK_47_SKIN_4/STORE_AK_47_SKIN_4.asset
+Dependencies: []

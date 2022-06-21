@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4230403637
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shot_gun_skin_4
+      Dependencies: {}
+    Info_1:
+      Name: store_shot_gun_skin_4
+      Dependencies: {}
