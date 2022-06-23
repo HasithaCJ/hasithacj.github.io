@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3395887950
+CRC: 4262261722
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ak_47_skin_5
+      Name: pistol_skin_5
       Dependencies: {}
     Info_1:
-      Name: store_ak_47_skin_5
+      Name: store_pistol_skin_5
       Dependencies: {}
