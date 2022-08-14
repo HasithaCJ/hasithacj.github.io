@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 633553158
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hero_skin_17
+      Dependencies: {}
+    Info_1:
+      Name: store_hero_skin_17
+      Dependencies: {}
