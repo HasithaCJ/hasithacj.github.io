@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3262277909
+CRC: 2896146156
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 611d2c1c4dff5fd4b611283dc3fb0873
+    Hash: 25a32cd837de8991da662d0425ec1a3d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -15,5 +15,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/WhatIsNew/Data/WhatIsNewImage.png
+- Assets/DynamicImages/Data/WhatIsNewImage.png
+- Assets/DynamicImages/Data/SocialImage.png
 Dependencies: []

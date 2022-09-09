@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1720931267
+CRC: 2607233687
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: whatisnew
+      Name: dynamicimages
       Dependencies: {}
