@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 344974217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 755e0816a7307bd60143ce3b6d188726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44f269a77502ef38b8d0cf21d32f65a9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0e6797eeec2b01429d09a425244dd06, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MapsData/MAP_2/DATA_MAP_2.asset
+Dependencies: []
