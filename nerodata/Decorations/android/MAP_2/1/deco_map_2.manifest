@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3602763411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a2d2ab2506f2d4a9a43678862322427
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4f767b432947ed1747224e0b64fcc070
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda3db98c8073234395cdf6937807b78, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Decorations/MAP_2/Graffiti3.png
+- Assets/Decorations/MAP_2/Graffiti1.png
+- Assets/Decorations/MAP_2/Decorations_Data.asset
+- Assets/Decorations/MAP_2/Barrel.prefab
+Dependencies: []
