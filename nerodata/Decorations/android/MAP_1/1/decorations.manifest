@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2357594832
+CRC: 3391605935
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 632fe13e54ce5d49f3e90bd0b8776250
+    Hash: fba75f24b74713581a955aa049a67b81
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e25f1243bd400bb11435a16ce36e272d
+    Hash: 4f767b432947ed1747224e0b64fcc070
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,10 +31,11 @@ ClassTypes:
   Script: {fileID: 11500000, guid: fda3db98c8073234395cdf6937807b78, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/decorations/Barrel.prefab
-- Assets/decorations/Graffiti3.png
-- Assets/decorations/Graffiti2.png
-- Assets/decorations/Decorations_Data.asset
-- Assets/decorations/Graffiti1.png
+- Assets/Decorations/MAP_1/Graffiti3.png
+- Assets/Decorations/MAP_1/Graffiti2.png
+- Assets/Decorations/MAP_1/Decorations_Data.asset
+- Assets/Decorations/MAP_1/Graffiti1.png
+- Assets/Decorations/MAP_1/Barrel.prefab
 Dependencies: []
