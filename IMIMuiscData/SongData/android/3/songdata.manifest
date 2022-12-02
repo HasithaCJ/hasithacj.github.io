@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2990552865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef03e3befd56eda097fe8becf52d8483
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e0b8879fe414d6e2bcd54a80d64ece
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21979d2f98b76004c974196a779eb561, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SongData/SongData.asset
+Dependencies: []
