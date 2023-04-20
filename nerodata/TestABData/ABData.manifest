@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1607821224
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testui_data
+      Dependencies: {}

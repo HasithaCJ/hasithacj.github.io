@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1092708635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b8d7bc4bd50a4ab6a9ac88d6987fa50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e2367b789bb152516c62e435416ca95
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc8c982f6378862478e4e7572e61bc34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tests/TestUI_Data.asset
+Dependencies: []
