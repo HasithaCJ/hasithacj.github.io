@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1394561630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5f20d3998a07258c83e1b070de0a731
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DynamicImages/Data/WhatIsNewImage.png
+- Assets/DynamicImages/Data/SocialImage.png
+Dependencies: []
